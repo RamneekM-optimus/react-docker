@@ -1,0 +1,36 @@
+.bottle {
+  height: 400px;
+  width: 250px;
+}
+
+.leafWrapper-1 {
+  position: absolute;
+  top: 52px;
+  left: 30%;
+}
+.leafWrapper-2 {
+  position: absolute;
+  right: 72px;
+}
+.leafWrapper-3 {
+  position: absolute;
+  top: 10px;
+  right: 40%;
+}
+.leafWrapper-4 {
+  position: absolute;
+  top: 36%;
+  right: 33%;
+}
+.leafWrapper-5 {
+  position: absolute;
+  top: 75%;
+  left: 25%;
+}
+.leaf {
+  position: object-contain w-20 h-28;
+}
+
+nav {
+  cursor: pointer !important;
+}
